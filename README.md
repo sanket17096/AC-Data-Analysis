@@ -10,4 +10,9 @@ More details can be found in IPython Notebook.
 ## Screenshots
 
 ![App Screenshot](Pictures/correlation.png)
-
+![App Screenshot](Pictures/Correlation_AC.png)
+![App Screenshot](Pictures/top.png)
+![App Screenshot](Pictures/trends.png)
+![App Screenshot](Pictures/forecast_chart1.png)
+![App Screenshot](Pictures/forecast_chart2.png)
+![App Screenshot](Pictures/forecast_values.png)
