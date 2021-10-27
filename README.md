@@ -9,5 +9,5 @@ More details can be found in IPython Notebook.
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/4JmHMb6)
+![App Screenshot](Pictures/correlation.png)
 
